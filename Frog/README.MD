@@ -1,5 +1,5 @@
 # Frog
-This is the solution I came up for one coding test taken from [Codility](http://codility.com).
+This is the solution I came up for a coding test taken from [Codility](http://codility.com).
 The solution is not guaranteed to be entirely corrected, at least it works for the provided example :)
 
 * A = [ 1, 3, 1, 4, 2, 5 ]
